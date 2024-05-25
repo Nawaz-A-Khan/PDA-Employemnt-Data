@@ -11,3 +11,4 @@ dataframes_dict = {'df1': df1, 'df2': df2}
 selected_df = dataframes_dict['df1']
 print(selected_df)
 df1.plot()
+df1.shape
